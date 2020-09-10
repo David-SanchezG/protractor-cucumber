@@ -10,7 +10,7 @@ You just need to install Node.js from https://nodejs.org/
 # Run
 ./node_modules/protractor/bin/protractor protractor.conf<br> 
 or<br>
-./node_modules/protractor/bin/protractor protractor.conf --tags "@this and not @that"
+./node_modules/protractor/bin/protractor protractorConf.js --tags "@this and not @that"
 
 ## Running types
 ### Sequential

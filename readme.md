@@ -8,7 +8,7 @@ You just need to install Node.js from https://nodejs.org/
 <pre>./node_modules/protractor/bin/webdriver-manager start</pre>
 
 # Run
-./node_modules/protractor/bin/protractor protractor.conf<br> 
+./node_modules/protractor/bin/protractor protractorConf.js<br> 
 or<br>
 ./node_modules/protractor/bin/protractor protractorConf.js --tags "@this and not @that"
 

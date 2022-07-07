@@ -14,7 +14,7 @@
     "commander": "^5.0.0",
     "cucumber": "^6.0.5",
     "cucumber-html-reporter": "^5.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "protractor": "^5.4.0",
     "protractor-cucumber-framework": "^6.2.1"
   }
